@@ -1,0 +1,13 @@
+pandas
+numpy
+duckdb
+pyarrow
+requests
+python-dotenv
+pyyaml
+rapidfuzz
+scikit-learn
+datasets
+streamlit
+plotly
+tqdm
